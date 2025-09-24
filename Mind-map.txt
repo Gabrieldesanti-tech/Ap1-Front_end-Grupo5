@@ -1,0 +1,34 @@
+Ibchanges
+│
+├── Objetivo
+│   ├─ Impulsionar empresas
+│   ├─ Criar rede de inovação
+│   └─ Aumentar resultados
+│
+├── Páginas Principais
+│   ├─ Início
+│   │   └─ Hero + Benefícios
+│   ├─ Triagem
+│   │   └─ Formulário + Critérios
+│   ├─ Galeria
+│   │   └─ Eventos + Fotos + Networking
+│   ├─ Depoimentos
+│   │   └─ Histórias de sucesso
+│   └─ Regras
+│       └─ Transparência + Ética
+│
+├── Usuários
+│   ├─ Startups
+│   ├─ Empresas médias
+│   └─ Grandes corporações
+│
+├── Recursos
+│   ├─ Mentorias
+│   ├─ Networking
+│   ├─ Workshops
+│   └─ Eventos
+│
+└── Futuro
+    ├─ Área logada
+    ├─ Métricas interativas
+    └─ Integração IA

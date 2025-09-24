@@ -1,0 +1,29 @@
+1. Brainstorm – Ideias e Conceitos
+
+Propósito do site
+
+Ser um hub de inovação para empresas de todos os portes.
+
+Mostrar cases, histórias e resultados reais.
+
+Oferecer onboarding estruturado via triagem.
+
+Criar um espaço moderno e confiável (design “futurístico”).
+
+Elementos obrigatórios
+
+Navegação clara entre Início, Triagem, Galeria, Depoimentos, Regras.
+
+Formulários responsivos e intuitivos.
+
+Galeria de experiências reais.
+
+Seção de métricas e depoimentos impactantes.
+
+Possíveis expansões
+
+Dashboard interno com métricas personalizadas.
+
+Área de login para empresas acompanharem progresso.
+
+Chatbot/IA para triagem automática.

@@ -1,0 +1,7 @@
+What (O quê?)	Plataforma online para conectar empresas a oportunidades de crescimento, mentorias e networking.
+Why (Por quê?)	Empresas precisam de um ecossistema que acelere inovação, cultura e resultados.
+Who (Quem?)	Público: Startups, empresas médias, grandes corporações. 
+Where (Onde?)	Site responsivo, acessível em desktop e mobile.
+When (Quando?)	Protótipo já desenvolvido, pronto para testes e melhorias. Expansão contínua conforme feedback.
+How (Como?)	Estruturado em páginas temáticas (Início, Triagem, Galeria, Depoimentos, Regras). Design moderno 
+How Much (Quanto?)	Investimento inicial baixo (protótipo acadêmico), podendo escalar para plataforma com custos de hospedagem, manutenção e eventuais integrações.
