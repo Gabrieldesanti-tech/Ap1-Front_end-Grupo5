@@ -1,0 +1,45 @@
+. Formato da Reunião
+
+Frequência: Diária
+
+Plataforma utilizada: Grupo do WhatsApp
+
+Duração média: curta, objetiva, em mensagens de texto
+
+Participantes: todos os integrantes do time de desenvolvimento
+
+2. Dinâmica do Scrum Meeting
+
+Cobertura de deveres
+
+Caso algum integrante não pudesse cumprir suas tarefas, outro assumia a responsabilidade.
+
+Isso garantiu que o progresso da Sprint não fosse prejudicado por ausências individuais.
+
+Verificação do que faltava
+
+O time avaliava diariamente o que ainda estava pendente no backlog ou nas entregas da Sprint.
+
+Essa checagem funcionava como um alinhamento coletivo sobre o status geral do projeto.
+
+Distribuição de acordo com habilidades
+
+As tarefas eram realocadas considerando as competências individuais.
+
+Se um membro tinha mais facilidade em determinada área, ele apoiava o colega ou assumia a atividade.
+
+Apoio mútuo
+
+A reunião não era apenas de status, mas também de colaboração ativa.
+
+Cada integrante ajudava o outro, criando um ambiente de cooperação constante.
+
+3. Resultados Alcançados
+
+Transparência: todos sabiam o que já havia sido feito e o que ainda faltava.
+
+Flexibilidade: as tarefas eram rapidamente redistribuídas, evitando atrasos.
+
+Colaboração: o time fortaleceu a cultura de apoio mútuo.
+
+Eficiência: mesmo em um formato simplificado (WhatsApp), os objetivos centrais do Daily Scrum foram atingidos.
