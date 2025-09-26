@@ -3,6 +3,9 @@ Documento de Visão – Hub de Inovação
 
 O projeto visa criar um hub digital de inovação para empresas de todos os portes, funcionando como uma vitrine de cases, resultados e histórias reais, além de oferecer processos estruturados de onboarding via triagem.
 O site deve transmitir confiabilidade, modernidade e visão futurística, posicionando-se como um espaço referência em inovação corporativa.
+dando oportunidade para empresas de usufruirem dos conhecimentos dos alunos IBMEC 
+começando com uma criação de banco de dados de projeto para nosso uso e para a funcionalidade de para os professores de disciplinas extensionistas e seu sucesso fez-se necessario extender para empresas de fora
+
 
 2. Público-Alvo
 
