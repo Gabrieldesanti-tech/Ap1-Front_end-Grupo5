@@ -1,0 +1,75 @@
+Documento de Visão – Hub de Inovação
+1. Propósito do Site
+
+O projeto visa criar um hub digital de inovação para empresas de todos os portes, funcionando como uma vitrine de cases, resultados e histórias reais, além de oferecer processos estruturados de onboarding via triagem.
+O site deve transmitir confiabilidade, modernidade e visão futurística, posicionando-se como um espaço referência em inovação corporativa.
+
+2. Público-Alvo
+
+Startups em busca de validação e exposição de seus cases.
+
+Pequenas e médias empresas que desejam implementar inovação estruturada.
+
+Grandes corporações interessadas em acompanhar tendências e métricas de impacto.
+
+Investidores e parceiros que procuram oportunidades de negócio.
+
+3. Objetivos Principais
+
+Conectar empresas de diferentes portes a práticas e cases de inovação.
+
+Oferecer onboarding prático e guiado, por meio de triagem automatizada e humanizada.
+
+Demonstrar credibilidade através de depoimentos, métricas reais e resultados.
+
+Proporcionar navegação simples e intuitiva com design limpo e futurista.
+
+4. Funcionalidades Essenciais (MVP)
+
+Menu de Navegação claro com seções:
+
+Início
+
+Triagem de Empresas
+
+Galeria de Cases
+
+Depoimentos
+
+Regras de Uso
+
+Formulários responsivos para onboarding e contato.
+
+Galeria interativa de experiências reais e projetos concluídos.
+
+Seção de métricas e resultados, apresentando dados quantitativos e qualitativos.
+
+Depoimentos de impacto, com foco em credibilidade.
+
+5. Possíveis Expansões (Roadmap)
+
+Dashboard interno com métricas personalizadas para cada empresa.
+
+Área de login onde empresas podem acompanhar progresso e resultados.
+
+Chatbot com IA para triagem inicial automática e suporte contínuo.
+
+Integração com APIs de métricas externas (ex.: indicadores financeiros, inovação aberta, ESG).
+
+6. Diferenciais de Valor
+
+Design futurístico e acessível, transmitindo inovação e confiança.
+
+Conteúdo validado por casos reais, evitando superficialidade.
+
+Escalabilidade, com possibilidade de evolução para plataforma interativa (SaaS de inovação).
+
+7. Indicadores de Sucesso
+
+Número de empresas cadastradas via triagem.
+
+Taxa de engajamento nos cases e depoimentos.
+
+Percentual de empresas que avançam para dashboards e acompanhamento.
+
+Feedback positivo em usabilidade e clareza da navegação.
